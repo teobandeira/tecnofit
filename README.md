@@ -18,3 +18,6 @@ Banco de dados remoto já configurado no arquivo .env
 
 # Inicie o servidor
 php artisan serve
+
+# Preview
+<a href="https://teobandeira-tecnofit-t6jr3s.laravel.cloud/">Ver app</a>
