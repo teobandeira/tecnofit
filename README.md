@@ -20,4 +20,5 @@ Banco de dados remoto já configurado no arquivo .env
 php artisan serve
 
 # Preview
-<a href="https://teobandeira-tecnofit-t6jr3s.laravel.cloud/">Ver app</a>
+<a href="https://teobandeira-tecnofit-t6jr3s.laravel.cloud/">Ver app</a> <br>
+Arquivo principal: app/Http/Controllers/RankingController.php
