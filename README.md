@@ -20,7 +20,7 @@ Banco de dados remoto já configurado no arquivo .env
 php artisan serve
 
 # Teste e Preview
-Local ex: http://127.0.0.1:8000/api/ranking/2
+URl local: {LOCAL}/api/ranking/2
 <br><br>
 <a href="https://teobandeira-tecnofit-t6jr3s.laravel.cloud/">Acessar online</a> <br> <br>
 Arquivo principal do projeto: app/Http/Controllers/RankingController.php
