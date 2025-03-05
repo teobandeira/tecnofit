@@ -73,7 +73,7 @@
                                 </span>
                             </span>
                             <span>
-                                Você pode utilizar um framework ou não.
+                                Testar o endpoint com os parametros 1, 2 ou 3, segundo a base de dados enviada.
                             </span>
                         </li>
                         <li class="flex items-center gap-4 py-2 relative before:border-l before:border-[#e3e3e0] dark:before:border-[#3E3E3A] before:bottom-1/2 before:top-0 before:left-[0.4rem] before:absolute">
@@ -83,19 +83,10 @@
                                 </span>
                             </span>
                             <span>
-                                Deve acompanhar as instruções de como rodar o código.
+                                Arquivo principal: app/Http/Controllers/RankingController.php
                             </span>
                         </li>
-                        <li class="flex items-center gap-4 py-2 relative before:border-l before:border-[#e3e3e0] dark:before:border-[#3E3E3A] before:bottom-1/2 before:top-0 before:left-[0.4rem] before:absolute">
-                            <span class="relative py-1 bg-white dark:bg-[#161615]">
-                                <span class="flex items-center justify-center rounded-full bg-[#FDFDFC] dark:bg-[#161615] shadow-[0px_0px_1px_0px_rgba(0,0,0,0.03),0px_1px_2px_0px_rgba(0,0,0,0.06)] w-3.5 h-3.5 border dark:border-[#3E3E3A] border-[#e3e3e0]">
-                                    <span class="rounded-full bg-[#dbdbd7] dark:bg-[#3E3E3A] w-1.5 h-1.5"></span>
-                                </span>
-                            </span>
-                            <span>
-                                O código tem que estar postado em algum repositório Git.
-                            </span>
-                        </li>
+
                     </ul>
                     <ul class="flex gap-3 text-sm leading-normal">
                         <li class="mb-3">
